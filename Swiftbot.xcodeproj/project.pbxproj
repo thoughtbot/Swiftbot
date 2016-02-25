@@ -286,6 +286,7 @@
 				008585BB1C3BFE6700FB3F7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
